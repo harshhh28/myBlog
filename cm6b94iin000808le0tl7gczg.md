@@ -125,4 +125,7 @@ In the battle of HTTP module vs Express, it all comes down to what you need. If 
 4. **Stack Overflow - Node.js**: [Stack Overflow - Node.js](https://stackoverflow.com/questions/tagged/node.js)
     
 
-Have a good day :)
+---
+
+> Have a good day :)  
+> Follow my socials for more such articles: [X](https://x.com/harshgajjar_28), [LinkedIn](https://www.linkedin.com/in/harsh-gajjar-936536209) and [GitHub](https://github.com/harshhh28).
