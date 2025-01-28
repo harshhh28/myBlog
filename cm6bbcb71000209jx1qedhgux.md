@@ -88,4 +88,7 @@ That’s a wrap for the basics of Django. From virtual environments to uvicorn a
 
 Now, go ahead, create your project, and make something amazing. 🚀 Happy coding!
 
-Have a good day :)
+---
+
+> Have a good day :)  
+> Follow my socials for more such articles: [X](https://x.com/harshgajjar_28), [LinkedIn](https://www.linkedin.com/in/harsh-gajjar-936536209) and [GitHub](https://github.com/harshhh28).
