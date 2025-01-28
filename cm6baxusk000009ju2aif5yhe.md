@@ -104,4 +104,7 @@ If you’re still feeling a bit lost, here are some resources that can help you 
 
 That’s a wrap on the Django file structure walkthrough! If you still have questions, feel free to ask — I’m pretty sure your project’s “views” are ready to respond! 😉
 
-Have a good day :)
+---
+
+> Have a good day :)  
+> Follow my socials for more such articles: [X](https://x.com/harshgajjar_28), [LinkedIn](https://www.linkedin.com/in/harsh-gajjar-936536209) and [GitHub](https://github.com/harshhh28).
