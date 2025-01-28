@@ -88,4 +88,7 @@ Happy coding, my fellow developers! And remember: when in doubt, just add `?v={{
 
 Have you experienced the joy of versioning your static files? Or have you been stuck in the wild world of browser caching? Share your stories and let's commiserate together!
 
-Have a good day :)
+---
+
+> Have a good day :)  
+> Follow my socials for more such articles: [X](https://x.com/harshgajjar_28), [LinkedIn](https://www.linkedin.com/in/harsh-gajjar-936536209) and [GitHub](https://github.com/harshhh28).
